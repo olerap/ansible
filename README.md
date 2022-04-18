@@ -1,2 +1,2 @@
-# ansible
-## collection of my works with ansible
+# Ansible
+## Collection of my works with Ansible automations.
